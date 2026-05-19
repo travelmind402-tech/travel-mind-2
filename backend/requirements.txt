@@ -1,0 +1,13 @@
+google-genai
+fastapi
+uvicorn
+aiosqlite
+python-dotenv
+httpx
+aiohttp
+geopy
+supabase
+psycopg2-binary
+sqlalchemy
+pydantic
+amadeus
