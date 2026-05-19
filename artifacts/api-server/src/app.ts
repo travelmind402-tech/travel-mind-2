@@ -70,3 +70,13 @@ app.all("/api/session/*splat", proxyToPython);
 app.use("/api", router);
 
 export default app;
+
+import path from "path";
+
+// Serve desktop frontend static files
+app.use(express.static(path.resolve("./artifacts/travelmind/dist/public")));
+
+// Fallback to index.html for client-side routing
+app.get("*", (_req, res) => {
+  res.sendFile(path.resolve("./artifacts/travelmind/dist/public/index.html"));
+});
