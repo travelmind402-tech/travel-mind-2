@@ -32,7 +32,7 @@
       [
         "expo-router",
         {
-          "origin": "https://replit.com/"
+          "origin": "https://node-js-api-server.onrender.com/"
         }
       ],
       "expo-font",
