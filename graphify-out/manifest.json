@@ -1,0 +1,1277 @@
+{
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\package.json": {
+    "mtime": 1778944085.933586,
+    "ast_hash": "1acf268be06346b0a8823c378d971367",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\tsconfig.base.json": {
+    "mtime": 1778944085.97435,
+    "ast_hash": "b4a271ec42c520e1d7f574b5cf2c1bb7",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\tsconfig.json": {
+    "mtime": 1778944085.983844,
+    "ast_hash": "1670593017247aa04fc736faabb1d8bd",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\api-server\\build.mjs": {
+    "mtime": 1778944521.1201086,
+    "ast_hash": "5b444a60deb024300895eef56f80e216",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\api-server\\package.json": {
+    "mtime": 1778944521.1295772,
+    "ast_hash": "6f6086b06d671906e6141d716e7e182c",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\api-server\\tsconfig.json": {
+    "mtime": 1778944521.136003,
+    "ast_hash": "26ccd0a5a0eb77a324e2416fac20650c",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\api-server\\src\\app.ts": {
+    "mtime": 1778944521.2773006,
+    "ast_hash": "6719c4167628fb230917ffecd50c9642",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\api-server\\src\\index.ts": {
+    "mtime": 1778944521.2833474,
+    "ast_hash": "8f8441af31d7afd392ec90466f19456f",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\api-server\\src\\lib\\logger.ts": {
+    "mtime": 1778944521.304914,
+    "ast_hash": "6140f8dfc2f87e7b6045e1b823aa11a0",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\api-server\\src\\routes\\health.ts": {
+    "mtime": 1778944521.325204,
+    "ast_hash": "3874b65681b6a6366b03f30eca2a087c",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\api-server\\src\\routes\\index.ts": {
+    "mtime": 1778944521.32939,
+    "ast_hash": "509aa2d1005bd81ce688b7d6ab40451d",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\api-server\\src\\routes\\proxy.ts": {
+    "mtime": 1778944521.3367364,
+    "ast_hash": "3276527cef2cd955c721a10d3412124b",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\components.json": {
+    "mtime": 1778944521.3463552,
+    "ast_hash": "e5c09f0d1b54622057d0fb8d5a894b35",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\mockupPreviewPlugin.ts": {
+    "mtime": 1778944521.357844,
+    "ast_hash": "29cc7e42df462d7698ed88f40759283e",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\package.json": {
+    "mtime": 1778944521.3643887,
+    "ast_hash": "757c1682c078eedb3e4001c3e79093d2",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\tsconfig.json": {
+    "mtime": 1778944521.3708968,
+    "ast_hash": "e25ce7195de225d4bcaec98077345087",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\vite.config.ts": {
+    "mtime": 1778944521.3771513,
+    "ast_hash": "b0bff446ec89ee62f0e3255cbb5a819b",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\App.tsx": {
+    "mtime": 1778944521.395051,
+    "ast_hash": "0f61f206cd73f1afdeaaac11e7a87d60",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\main.tsx": {
+    "mtime": 1778944521.4045033,
+    "ast_hash": "0da263f654e858856022667237989393",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\.generated\\mockup-components.ts": {
+    "mtime": 1778944521.4146042,
+    "ast_hash": "a7e5dcdf66f3396f525216c2b1c43a76",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\accordion.tsx": {
+    "mtime": 1778944521.4344237,
+    "ast_hash": "400c2f0e9db19a141055ac6c979305bc",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\alert-dialog.tsx": {
+    "mtime": 1778944521.4399197,
+    "ast_hash": "841b6aecd418a074d6ae7239d7849cd7",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\alert.tsx": {
+    "mtime": 1778944521.4449503,
+    "ast_hash": "7b905f7f819bd4395a459a97faaa771a",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\aspect-ratio.tsx": {
+    "mtime": 1778944521.4494298,
+    "ast_hash": "ea9c6ff6c2931b5089972bfba3fa5c1f",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\avatar.tsx": {
+    "mtime": 1778944521.4554267,
+    "ast_hash": "0008445bf0b90f231d702bcd9141726c",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\badge.tsx": {
+    "mtime": 1778944521.4600127,
+    "ast_hash": "aac90b549d7724cef0ed18d8506fbbea",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\breadcrumb.tsx": {
+    "mtime": 1778944521.4662414,
+    "ast_hash": "60485fccd28b1bb7690978d2f0ea91a7",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\button-group.tsx": {
+    "mtime": 1778944521.472196,
+    "ast_hash": "f10e07c96e62161432c70e75d4e0c4b9",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\button.tsx": {
+    "mtime": 1778944521.4764206,
+    "ast_hash": "d5125c1f24d58f5bb727a28e5497d32d",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\calendar.tsx": {
+    "mtime": 1778944521.4819376,
+    "ast_hash": "7168347f8b1856c73700206300a511a4",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\card.tsx": {
+    "mtime": 1778944521.4877687,
+    "ast_hash": "9f1da48791217371e13fa28ce90ae444",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\carousel.tsx": {
+    "mtime": 1778944521.4936337,
+    "ast_hash": "005a47594c5c8f09e27f0ed1f02197cd",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\chart.tsx": {
+    "mtime": 1778944521.4996555,
+    "ast_hash": "bdd60ee5a08c307f8d7889fd0dce6b80",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\checkbox.tsx": {
+    "mtime": 1778944521.5047,
+    "ast_hash": "acbc50c5768d7a97751f6b90ac0f273a",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\collapsible.tsx": {
+    "mtime": 1778944521.5097013,
+    "ast_hash": "87cce2923d03d5560ae6838e54e87f60",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\command.tsx": {
+    "mtime": 1778944521.5157454,
+    "ast_hash": "4959e8e943e449005b2d9520b5f8207a",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\context-menu.tsx": {
+    "mtime": 1778944521.5217133,
+    "ast_hash": "0fe607b9f99574a24b7d9f66bd828076",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\dialog.tsx": {
+    "mtime": 1778944521.52612,
+    "ast_hash": "0878ebc40a6d6fa3aaa1da3f0a879703",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\drawer.tsx": {
+    "mtime": 1778944521.5318043,
+    "ast_hash": "1caf6dac62a50b2558dd36d6d7644891",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\dropdown-menu.tsx": {
+    "mtime": 1778944521.5372205,
+    "ast_hash": "a674cf69830585ae1fe11fc61d3b36e1",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\empty.tsx": {
+    "mtime": 1778944521.5422997,
+    "ast_hash": "10d3b9fbd5563af0f220299ab4277d79",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\field.tsx": {
+    "mtime": 1778944521.5473208,
+    "ast_hash": "f33e5065605301e192f360397adaebd8",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\form.tsx": {
+    "mtime": 1778944521.5522933,
+    "ast_hash": "42b8c77794bfe132e9cdc0fdb4c514aa",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\hover-card.tsx": {
+    "mtime": 1778944521.5576427,
+    "ast_hash": "61e2e6b95ce28939056a397b0a4d9b9f",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\input-group.tsx": {
+    "mtime": 1778944521.5632508,
+    "ast_hash": "d584608a4cb652dc2440c549b321a8d0",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\input-otp.tsx": {
+    "mtime": 1778944521.5702841,
+    "ast_hash": "ff53043113c7eb3082875ee3a3fdfec7",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\input.tsx": {
+    "mtime": 1778944521.5768397,
+    "ast_hash": "962daebde14319230f0cbf88a8472f70",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\item.tsx": {
+    "mtime": 1778944521.583671,
+    "ast_hash": "eb5aee55246d65bf225d44a9930a9374",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\kbd.tsx": {
+    "mtime": 1778944521.5891957,
+    "ast_hash": "28e0cd55a69f78cf77a41293a632ebda",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\label.tsx": {
+    "mtime": 1778944521.5949202,
+    "ast_hash": "14579f07e6e3133b6ee65d3ec778b013",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\menubar.tsx": {
+    "mtime": 1778944521.5993748,
+    "ast_hash": "f7d0cd70b947c7a8fa61658bc80617ea",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\navigation-menu.tsx": {
+    "mtime": 1778944521.605436,
+    "ast_hash": "d6aa2fa1bf45c75e6fac9e3ea9cea212",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\pagination.tsx": {
+    "mtime": 1778944521.6096506,
+    "ast_hash": "c55f0d96cb758dba5cf0a6f86c808630",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\popover.tsx": {
+    "mtime": 1778944521.6162188,
+    "ast_hash": "bb7f87e3b630ba3b1e7bc2c0c4469ab2",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\progress.tsx": {
+    "mtime": 1778944521.6209762,
+    "ast_hash": "97b0fc2e77eba6412131f9d54dc68a8a",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\radio-group.tsx": {
+    "mtime": 1778944521.6267583,
+    "ast_hash": "3c839bdda8273447567e538662b3db8f",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\resizable.tsx": {
+    "mtime": 1778944521.6317985,
+    "ast_hash": "53861a766e45ed3c530825a22be2a1af",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\scroll-area.tsx": {
+    "mtime": 1778944521.6363814,
+    "ast_hash": "c4d63c56a99feb600ed0e9bbcfd70829",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\select.tsx": {
+    "mtime": 1778944521.6434538,
+    "ast_hash": "b28efb55176b23dabb444cf88fe0a184",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\separator.tsx": {
+    "mtime": 1778944521.6494546,
+    "ast_hash": "e970901b62fe8b73d2b9254fad77f583",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\sheet.tsx": {
+    "mtime": 1778944521.6555018,
+    "ast_hash": "37e7a8592c3402cc56568d9f59d7db68",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\sidebar.tsx": {
+    "mtime": 1778944521.660103,
+    "ast_hash": "7d953d555494928dae1345eaa2ee9428",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\skeleton.tsx": {
+    "mtime": 1778944521.6664703,
+    "ast_hash": "c16d8ac1e08656426fb248b601772ad1",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\slider.tsx": {
+    "mtime": 1778944521.6735144,
+    "ast_hash": "c34a050ed5a30c8b3fb547e14da373fc",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\sonner.tsx": {
+    "mtime": 1778944521.6788535,
+    "ast_hash": "6946201307c83984b9a462e856506891",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\spinner.tsx": {
+    "mtime": 1778944521.6846912,
+    "ast_hash": "28b695734ef3b6840b47d713ae3d31ce",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\switch.tsx": {
+    "mtime": 1778944521.6901438,
+    "ast_hash": "4fae7eba642617fdec3a30d4c5013866",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\table.tsx": {
+    "mtime": 1778944521.6958973,
+    "ast_hash": "0ae7dbae059df3f7e3faa6a93e81267f",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\tabs.tsx": {
+    "mtime": 1778944521.7019088,
+    "ast_hash": "6eb75ce145e0a220a1e299bf7d78facf",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\textarea.tsx": {
+    "mtime": 1778944521.7076032,
+    "ast_hash": "28a5b8c2caa9c86b73ca82fab179c356",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\toast.tsx": {
+    "mtime": 1778944521.7131405,
+    "ast_hash": "6b9ed7f669208f6631d1c44bbd556877",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\toaster.tsx": {
+    "mtime": 1778944521.719881,
+    "ast_hash": "d0e062810c47a46b9bb4e8ea19875a02",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\toggle-group.tsx": {
+    "mtime": 1778944521.7249181,
+    "ast_hash": "b99319e56880c541f7bef8fa76f3ed5f",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\toggle.tsx": {
+    "mtime": 1778944521.7293575,
+    "ast_hash": "d7d439ee740eaa6f6b3716908d72b71c",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\components\\ui\\tooltip.tsx": {
+    "mtime": 1778944521.7362711,
+    "ast_hash": "8d58847748e1b0d4b2b7572b846af09a",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\hooks\\use-mobile.tsx": {
+    "mtime": 1778944521.7464526,
+    "ast_hash": "209b5193af16624cdd89d3591480dd48",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\hooks\\use-toast.ts": {
+    "mtime": 1778944521.7526803,
+    "ast_hash": "0b394643e2f31d43a911810a1ac456fd",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\src\\lib\\utils.ts": {
+    "mtime": 1778944521.7643495,
+    "ast_hash": "5a6fd53fdcf2be529e9cc0b718fde352",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\components.json": {
+    "mtime": 1778944521.7747085,
+    "ast_hash": "32f4e76fe71388904cc1d32e6442a971",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\package.json": {
+    "mtime": 1778944521.7856846,
+    "ast_hash": "00b7229486948fc70c7c490246b0515a",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\tsconfig.json": {
+    "mtime": 1778944521.7917178,
+    "ast_hash": "781b72f5f19966343ae526fabb541f12",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\vite.config.ts": {
+    "mtime": 1778946473.3763206,
+    "ast_hash": "ca904d72fef41382d7c4c996dc349abb",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\App.tsx": {
+    "mtime": 1778944521.8388295,
+    "ast_hash": "9a57d34eb955646d2ce958b41372b93a",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\main.tsx": {
+    "mtime": 1778944521.8509486,
+    "ast_hash": "0da263f654e858856022667237989393",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\AgentPage.tsx": {
+    "mtime": 1778944521.8596222,
+    "ast_hash": "e7b9439e8a888f401d7a3f706d44225b",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\Sidebar.tsx": {
+    "mtime": 1778944521.8658712,
+    "ast_hash": "12a116f3bf083ca7437dadbdf0b345f5",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\accordion.tsx": {
+    "mtime": 1778944521.8789837,
+    "ast_hash": "400c2f0e9db19a141055ac6c979305bc",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\alert-dialog.tsx": {
+    "mtime": 1778944521.8860948,
+    "ast_hash": "841b6aecd418a074d6ae7239d7849cd7",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\alert.tsx": {
+    "mtime": 1778944521.8908875,
+    "ast_hash": "7b905f7f819bd4395a459a97faaa771a",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\aspect-ratio.tsx": {
+    "mtime": 1778944521.8964138,
+    "ast_hash": "ea9c6ff6c2931b5089972bfba3fa5c1f",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\avatar.tsx": {
+    "mtime": 1778944521.900929,
+    "ast_hash": "0008445bf0b90f231d702bcd9141726c",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\badge.tsx": {
+    "mtime": 1778944521.906456,
+    "ast_hash": "0ec4b0c311307eca3b2522e550a2e300",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\breadcrumb.tsx": {
+    "mtime": 1778944521.9109635,
+    "ast_hash": "60485fccd28b1bb7690978d2f0ea91a7",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\button-group.tsx": {
+    "mtime": 1778944521.9165015,
+    "ast_hash": "f10e07c96e62161432c70e75d4e0c4b9",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\button.tsx": {
+    "mtime": 1778944521.9209943,
+    "ast_hash": "c4aaf5e2e2694e48e25f8d62c3a0a940",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\calendar.tsx": {
+    "mtime": 1778944521.9260697,
+    "ast_hash": "7168347f8b1856c73700206300a511a4",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\card.tsx": {
+    "mtime": 1778944521.9321094,
+    "ast_hash": "9f1da48791217371e13fa28ce90ae444",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\carousel.tsx": {
+    "mtime": 1778944521.9365363,
+    "ast_hash": "005a47594c5c8f09e27f0ed1f02197cd",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\chart.tsx": {
+    "mtime": 1778944521.9420598,
+    "ast_hash": "e4675040ea52fca298252d9f783a8f00",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\checkbox.tsx": {
+    "mtime": 1778944521.946648,
+    "ast_hash": "acbc50c5768d7a97751f6b90ac0f273a",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\collapsible.tsx": {
+    "mtime": 1778944521.951974,
+    "ast_hash": "87cce2923d03d5560ae6838e54e87f60",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\command.tsx": {
+    "mtime": 1778944521.9567614,
+    "ast_hash": "4959e8e943e449005b2d9520b5f8207a",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\context-menu.tsx": {
+    "mtime": 1778944521.9626143,
+    "ast_hash": "0fe607b9f99574a24b7d9f66bd828076",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\dialog.tsx": {
+    "mtime": 1778944521.968187,
+    "ast_hash": "0878ebc40a6d6fa3aaa1da3f0a879703",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\drawer.tsx": {
+    "mtime": 1778944521.9729435,
+    "ast_hash": "1caf6dac62a50b2558dd36d6d7644891",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\dropdown-menu.tsx": {
+    "mtime": 1778944521.9785,
+    "ast_hash": "a674cf69830585ae1fe11fc61d3b36e1",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\empty.tsx": {
+    "mtime": 1778944521.9842079,
+    "ast_hash": "10d3b9fbd5563af0f220299ab4277d79",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\field.tsx": {
+    "mtime": 1778944521.9892068,
+    "ast_hash": "f33e5065605301e192f360397adaebd8",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\form.tsx": {
+    "mtime": 1778944521.9947102,
+    "ast_hash": "42b8c77794bfe132e9cdc0fdb4c514aa",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\hover-card.tsx": {
+    "mtime": 1778944521.9996257,
+    "ast_hash": "61e2e6b95ce28939056a397b0a4d9b9f",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\input-group.tsx": {
+    "mtime": 1778944522.0051134,
+    "ast_hash": "1bf29e791a559bf6d0c535c748b758ea",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\input-otp.tsx": {
+    "mtime": 1778944522.0111234,
+    "ast_hash": "ff53043113c7eb3082875ee3a3fdfec7",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\input.tsx": {
+    "mtime": 1778944522.0170355,
+    "ast_hash": "962daebde14319230f0cbf88a8472f70",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\item.tsx": {
+    "mtime": 1778944522.0229137,
+    "ast_hash": "eb5aee55246d65bf225d44a9930a9374",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\kbd.tsx": {
+    "mtime": 1778944522.02881,
+    "ast_hash": "28e0cd55a69f78cf77a41293a632ebda",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\label.tsx": {
+    "mtime": 1778944522.033609,
+    "ast_hash": "14579f07e6e3133b6ee65d3ec778b013",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\menubar.tsx": {
+    "mtime": 1778944522.039611,
+    "ast_hash": "f7d0cd70b947c7a8fa61658bc80617ea",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\navigation-menu.tsx": {
+    "mtime": 1778944522.0459979,
+    "ast_hash": "d6aa2fa1bf45c75e6fac9e3ea9cea212",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\pagination.tsx": {
+    "mtime": 1778944522.0510254,
+    "ast_hash": "c55f0d96cb758dba5cf0a6f86c808630",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\popover.tsx": {
+    "mtime": 1778944522.0573058,
+    "ast_hash": "bb7f87e3b630ba3b1e7bc2c0c4469ab2",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\progress.tsx": {
+    "mtime": 1778944522.06204,
+    "ast_hash": "97b0fc2e77eba6412131f9d54dc68a8a",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\radio-group.tsx": {
+    "mtime": 1778944522.0675848,
+    "ast_hash": "3c839bdda8273447567e538662b3db8f",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\resizable.tsx": {
+    "mtime": 1778944522.0726902,
+    "ast_hash": "53861a766e45ed3c530825a22be2a1af",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\scroll-area.tsx": {
+    "mtime": 1778944522.0776947,
+    "ast_hash": "c4d63c56a99feb600ed0e9bbcfd70829",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\select.tsx": {
+    "mtime": 1778944522.0827868,
+    "ast_hash": "b28efb55176b23dabb444cf88fe0a184",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\separator.tsx": {
+    "mtime": 1778944522.088854,
+    "ast_hash": "e970901b62fe8b73d2b9254fad77f583",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\sheet.tsx": {
+    "mtime": 1778944522.0938728,
+    "ast_hash": "37e7a8592c3402cc56568d9f59d7db68",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\sidebar.tsx": {
+    "mtime": 1778944522.098884,
+    "ast_hash": "f8e10dfb7187ee01473839838d33016e",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\skeleton.tsx": {
+    "mtime": 1778944522.104365,
+    "ast_hash": "c16d8ac1e08656426fb248b601772ad1",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\slider.tsx": {
+    "mtime": 1778944522.109487,
+    "ast_hash": "c34a050ed5a30c8b3fb547e14da373fc",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\sonner.tsx": {
+    "mtime": 1778944522.1147642,
+    "ast_hash": "6946201307c83984b9a462e856506891",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\spinner.tsx": {
+    "mtime": 1778944522.1208777,
+    "ast_hash": "28b695734ef3b6840b47d713ae3d31ce",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\switch.tsx": {
+    "mtime": 1778944522.1264038,
+    "ast_hash": "4fae7eba642617fdec3a30d4c5013866",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\table.tsx": {
+    "mtime": 1778944522.130911,
+    "ast_hash": "0ae7dbae059df3f7e3faa6a93e81267f",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\tabs.tsx": {
+    "mtime": 1778944522.137061,
+    "ast_hash": "6eb75ce145e0a220a1e299bf7d78facf",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\textarea.tsx": {
+    "mtime": 1778944522.1417303,
+    "ast_hash": "28a5b8c2caa9c86b73ca82fab179c356",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\toast.tsx": {
+    "mtime": 1778944522.1485271,
+    "ast_hash": "6b9ed7f669208f6631d1c44bbd556877",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\toaster.tsx": {
+    "mtime": 1778944522.1536243,
+    "ast_hash": "d0e062810c47a46b9bb4e8ea19875a02",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\toggle-group.tsx": {
+    "mtime": 1778944522.1580367,
+    "ast_hash": "b99319e56880c541f7bef8fa76f3ed5f",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\toggle.tsx": {
+    "mtime": 1778944522.1620128,
+    "ast_hash": "d7d439ee740eaa6f6b3716908d72b71c",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\components\\ui\\tooltip.tsx": {
+    "mtime": 1778944522.1678877,
+    "ast_hash": "8d58847748e1b0d4b2b7572b846af09a",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\context\\TripContext.tsx": {
+    "mtime": 1778944522.1783612,
+    "ast_hash": "4623fb8605bbf5c44ef6980d98492f5d",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\hooks\\use-mobile.tsx": {
+    "mtime": 1778944522.1909432,
+    "ast_hash": "209b5193af16624cdd89d3591480dd48",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\hooks\\use-toast.ts": {
+    "mtime": 1778944522.1969302,
+    "ast_hash": "bc4be55df07bc8727d5df9ed7799ad64",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\lib\\utils.ts": {
+    "mtime": 1778944522.2071447,
+    "ast_hash": "5a6fd53fdcf2be529e9cc0b718fde352",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\pages\\AgentBudget.tsx": {
+    "mtime": 1778944522.2177174,
+    "ast_hash": "70567e4dd27aec2e7fcc78d6b43704c2",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\pages\\AgentCuisine.tsx": {
+    "mtime": 1778944522.2228851,
+    "ast_hash": "408a8e177dfd5590cb44ef2d6c3c8b36",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\pages\\AgentCulture.tsx": {
+    "mtime": 1778944522.2278874,
+    "ast_hash": "97270839e1048a6eafe5642416800633",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\pages\\AgentDisruption.tsx": {
+    "mtime": 1778944522.2349126,
+    "ast_hash": "b37a752b6472800103fbc94c54daab44",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\pages\\AgentDriving.tsx": {
+    "mtime": 1778944522.2394483,
+    "ast_hash": "57e5924c6b04ec7ef7ed58a4c25b55f5",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\pages\\AgentLanguage.tsx": {
+    "mtime": 1778957475.652219,
+    "ast_hash": "7a8f69853b692c9095934d3beac9cda6",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\pages\\AgentWeather.tsx": {
+    "mtime": 1778944522.251788,
+    "ast_hash": "3f86d7c60adcca2c620a4526811c1da3",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\pages\\Dashboard.tsx": {
+    "mtime": 1778944522.257799,
+    "ast_hash": "c5099fe4eb12f6c47e27616a5eed9b49",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\pages\\DashboardHome.tsx": {
+    "mtime": 1778944522.264879,
+    "ast_hash": "bb4027c3b6889bd0a329c8beebd4dc16",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\pages\\not-found.tsx": {
+    "mtime": 1778944522.2778144,
+    "ast_hash": "8aa2d103ede2009fa5507a2f517f16c7",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\pages\\Onboarding.tsx": {
+    "mtime": 1778957969.810078,
+    "ast_hash": "14025a9bffa278b4733cae6cecff96fa",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\src\\services\\api.ts": {
+    "mtime": 1778950669.142344,
+    "ast_hash": "97ecbc7f04dfebb5f008ada9e0c4eb0e",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind-mobile\\app.json": {
+    "mtime": 1778944522.3058672,
+    "ast_hash": "d4192021ba8ffda5def064bc34092349",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind-mobile\\babel.config.js": {
+    "mtime": 1778944522.3112223,
+    "ast_hash": "7343417da8df90609013a05efe4f99c8",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind-mobile\\eas.json": {
+    "mtime": 1778944522.3161523,
+    "ast_hash": "61dbd6c1e828f7dda6a6ba1fa348c2d4",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind-mobile\\expo-env.d.ts": {
+    "mtime": 1778944522.3218002,
+    "ast_hash": "0dd9dccdb4b08595bc83df70d6a154d3",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind-mobile\\metro.config.js": {
+    "mtime": 1778944522.3268468,
+    "ast_hash": "7b5b5b15e7d735cd66c9777d522847f4",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind-mobile\\package.json": {
+    "mtime": 1778944522.331864,
+    "ast_hash": "dd89e094c81e45257289ded9ae4a11e8",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind-mobile\\tsconfig.json": {
+    "mtime": 1778944522.3373234,
+    "ast_hash": "72e5573c3aa05cddd2839ec85a316604",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind-mobile\\app\\+not-found.tsx": {
+    "mtime": 1778944522.423407,
+    "ast_hash": "d6ef24a0179ce2ada9fc724561600516",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind-mobile\\app\\_layout.tsx": {
+    "mtime": 1778944522.4288967,
+    "ast_hash": "aa73ca7725585e265a7fc79a5f27d3f3",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind-mobile\\app\\(tabs)\\index.tsx": {
+    "mtime": 1778957979.6766224,
+    "ast_hash": "5ae709becfbf06e0e097b8d57b162fe4",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind-mobile\\app\\(tabs)\\_layout.tsx": {
+    "mtime": 1778944522.438948,
+    "ast_hash": "a3c9abe1cfd3f98bfce022572a8912c8",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind-mobile\\app\\(tabs)\\dashboard\\budget.tsx": {
+    "mtime": 1778944522.4601872,
+    "ast_hash": "3826143472f32445fbdbf5e4f97d101f",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind-mobile\\app\\(tabs)\\dashboard\\cuisine.tsx": {
+    "mtime": 1778944522.465798,
+    "ast_hash": "514a8665b4dd98d6434e717b61cccbf6",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind-mobile\\app\\(tabs)\\dashboard\\culture.tsx": {
+    "mtime": 1778944522.471828,
+    "ast_hash": "a6fbd9fc5ffad71642ed2378143bf800",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind-mobile\\app\\(tabs)\\dashboard\\disruption.tsx": {
+    "mtime": 1778944522.4775448,
+    "ast_hash": "d7864c28064f8373b34bcc658c7769a5",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind-mobile\\app\\(tabs)\\dashboard\\driving.tsx": {
+    "mtime": 1778944522.4844291,
+    "ast_hash": "059027836cc7393e83b32ccc7f123574",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind-mobile\\app\\(tabs)\\dashboard\\index.tsx": {
+    "mtime": 1778944522.4895077,
+    "ast_hash": "4e62cdd9298258fc02c7585224143e0a",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind-mobile\\app\\(tabs)\\dashboard\\language.tsx": {
+    "mtime": 1778957487.9139173,
+    "ast_hash": "50a27eeaae4317be0c47b6afb8be0e29",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind-mobile\\app\\(tabs)\\dashboard\\weather.tsx": {
+    "mtime": 1778944522.5010624,
+    "ast_hash": "21ece6989c2c29d5d7f1c9af6f5909f9",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind-mobile\\app\\(tabs)\\dashboard\\_layout.tsx": {
+    "mtime": 1778944522.454795,
+    "ast_hash": "308b9c98b933dd5ce6545f3d8fd1a5a1",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind-mobile\\components\\AgentScreen.tsx": {
+    "mtime": 1778944522.5387108,
+    "ast_hash": "8d70c7817c4a9c68c4abd7f6508e7849",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind-mobile\\components\\ErrorBoundary.tsx": {
+    "mtime": 1778944522.5438664,
+    "ast_hash": "36f0610785812808b109db811bf9e3f6",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind-mobile\\components\\ErrorFallback.tsx": {
+    "mtime": 1778944522.5488503,
+    "ast_hash": "e40b7fa6243f9e4bf93a3a833adc32cf",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind-mobile\\components\\KeyboardAwareScrollViewCompat.tsx": {
+    "mtime": 1778944522.5540044,
+    "ast_hash": "5ac5d8fcc5e0aba43eabaa3574223615",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind-mobile\\constants\\colors.ts": {
+    "mtime": 1778944522.563632,
+    "ast_hash": "0b9fbc8845d94c00fbc5bd131087425d",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind-mobile\\context\\TripContext.tsx": {
+    "mtime": 1778944522.573923,
+    "ast_hash": "02aa128e2f47daa21187f66a001851d5",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind-mobile\\hooks\\useColors.ts": {
+    "mtime": 1778950821.7281065,
+    "ast_hash": "be39c17f78772602799612e8c33facf3",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind-mobile\\scripts\\build.js": {
+    "mtime": 1778944522.5959024,
+    "ast_hash": "5b7fc2d055e6cc045e6ee84921a9ae8c",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind-mobile\\server\\serve.js": {
+    "mtime": 1778944522.6070604,
+    "ast_hash": "9c82d8becd91cf2add2f4e1fe540a152",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind-mobile\\services\\api.ts": {
+    "mtime": 1778950674.9005482,
+    "ast_hash": "d0509b61b9b2e5c8c94e39a504fbc2e4",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\attached_assets\\schemas_1778816231888.py": {
+    "mtime": 1778944522.9109004,
+    "ast_hash": "c5ce570629f1041d59b8624e0f811ec0",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\backend\\main.py": {
+    "mtime": 1778944522.972456,
+    "ast_hash": "53172d7dc468527200865adcf2a01eb3",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\backend\\agents\\budget_agent.py": {
+    "mtime": 1779033496.1130376,
+    "ast_hash": "f58bbe62762e1a039dd56b2c6f9558cd",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\backend\\agents\\cuisine_agent.py": {
+    "mtime": 1778944523.023496,
+    "ast_hash": "8c087c4e52d11367e73c821ecf6747a8",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\backend\\agents\\culture_agent.py": {
+    "mtime": 1778944523.0286548,
+    "ast_hash": "7f71aa8c3b608c254b477abc9373b86d",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\backend\\agents\\disruption_agent.py": {
+    "mtime": 1779033500.1406815,
+    "ast_hash": "01ee508d40ef400ccdec3666ad69b826",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\backend\\agents\\driving_agent.py": {
+    "mtime": 1778944523.0427454,
+    "ast_hash": "53e5dc65460bf52b4017b0996bb9abfd",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\backend\\agents\\language_agent.py": {
+    "mtime": 1778956792.6321883,
+    "ast_hash": "1d4b1ee4cbda026ad4e282111509c4a3",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\backend\\agents\\weather_agent.py": {
+    "mtime": 1778944523.0573232,
+    "ast_hash": "01818fa3169bc7848237228dce42e7d6",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\backend\\agents\\__init__.py": {
+    "mtime": 1778944523.01106,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\backend\\db\\database.py": {
+    "mtime": 1778944523.1324978,
+    "ast_hash": "3e99498e178abb452f06eca634140aeb",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\backend\\db\\main_additions.py": {
+    "mtime": 1778944523.1390433,
+    "ast_hash": "9038815c3ca4ad00a3e59e8915493141",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\backend\\db\\trip_store.py": {
+    "mtime": 1778944523.154769,
+    "ast_hash": "ee9ca7bc3aabb59767a06b96ba653342",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\backend\\db\\__init__.py": {
+    "mtime": 1778944523.1261086,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\backend\\memory\\user_profile.py": {
+    "mtime": 1778944523.1968875,
+    "ast_hash": "d868f11b29fa368e939fb1c9045d58aa",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\backend\\memory\\__init__.py": {
+    "mtime": 1778944523.1921055,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\backend\\models\\schemas.py": {
+    "mtime": 1778944523.2119548,
+    "ast_hash": "c5ce570629f1041d59b8624e0f811ec0",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\backend\\models\\__init__.py": {
+    "mtime": 1778944523.2074387,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\backend\\orchestration\\database_service.py": {
+    "mtime": 1778944523.2462142,
+    "ast_hash": "3c71f8fa22e742571ed7989988009bc8",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\backend\\orchestration\\request_validator.py": {
+    "mtime": 1778944523.2520485,
+    "ast_hash": "44526bea7746bf9dd0ab75d57d9ee26c",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\backend\\orchestration\\session_orchestrator.py": {
+    "mtime": 1778944523.2580535,
+    "ast_hash": "ae3f0e423d5942342b97eb706a3ee05d",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\backend\\orchestration\\__init__.py": {
+    "mtime": 1778944523.2411048,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\backend\\tools\\budget_tool.py": {
+    "mtime": 1778944523.305059,
+    "ast_hash": "fadef21d53f2bcff43ad883eabca9f9a",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\backend\\tools\\cuisine_tool.py": {
+    "mtime": 1778944523.3109508,
+    "ast_hash": "9727a1ef8a2c7ec3b54dfe76582e5ec0",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\backend\\tools\\culture_tool.py": {
+    "mtime": 1778944523.3164797,
+    "ast_hash": "b1ba9367bd08ff5770d62d9a1a507447",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\backend\\tools\\driving_tool.py": {
+    "mtime": 1778944523.3219948,
+    "ast_hash": "5aa6429dee8142a593b340ca562905d6",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\backend\\tools\\weather_tool.py": {
+    "mtime": 1778944523.3278117,
+    "ast_hash": "10028f3aef92bc9d9bf506646d44d06a",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\backend\\tools\\__init__.py": {
+    "mtime": 1778944523.3002043,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\backend\\utils\\cache.py": {
+    "mtime": 1778944523.3893096,
+    "ast_hash": "6ff38b632f1204b77e61a11bd58103b8",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\backend\\utils\\gemini_client.py": {
+    "mtime": 1778944523.394843,
+    "ast_hash": "80a19e321681fad7dfe36b49bf16359e",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\backend\\utils\\helpers.py": {
+    "mtime": 1778944523.3994334,
+    "ast_hash": "d41d8cd98f00b204e9800998ecf8427e",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\backend\\utils\\llm.py": {
+    "mtime": 1779033478.0499983,
+    "ast_hash": "afacdeed0794f08922e9046481e7aabd",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\backend\\utils\\__init__.py": {
+    "mtime": 1778944523.3827684,
+    "ast_hash": "0ee4accad607c2b0e80d83da8ed6fc0c",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\lib\\api-client-react\\package.json": {
+    "mtime": 1778944523.447706,
+    "ast_hash": "0355e42ad3783cab341b3a47a74e727d",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\lib\\api-client-react\\tsconfig.json": {
+    "mtime": 1778944523.4537556,
+    "ast_hash": "1470ffdc72107f6d41d56168cfdcd06c",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\lib\\api-client-react\\src\\custom-fetch.ts": {
+    "mtime": 1778944523.5258536,
+    "ast_hash": "4f22afd94df63bc902faba9fd0dcf0af",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\lib\\api-client-react\\src\\index.ts": {
+    "mtime": 1778944523.5318737,
+    "ast_hash": "d94cb92a03eede7737f8f10aa928f5f8",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\lib\\api-client-react\\src\\generated\\api.schemas.ts": {
+    "mtime": 1778944523.5414035,
+    "ast_hash": "70c4cab52257184e3ef4c985b3cb443e",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\lib\\api-client-react\\src\\generated\\api.ts": {
+    "mtime": 1778944523.5461686,
+    "ast_hash": "6ca614a3639222e3fca2afc560999169",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\lib\\api-spec\\orval.config.ts": {
+    "mtime": 1778944523.5622804,
+    "ast_hash": "8df68869b13f2806cb1c7bd76cf419bf",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\lib\\api-spec\\package.json": {
+    "mtime": 1778944523.566819,
+    "ast_hash": "28995cf32db6590ccd6d3b5fe6ead576",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\lib\\api-zod\\package.json": {
+    "mtime": 1778944523.5764983,
+    "ast_hash": "5220a288db6e53c3828ea73e9977a1c5",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\lib\\api-zod\\tsconfig.json": {
+    "mtime": 1778944523.5826266,
+    "ast_hash": "5f961e62bb12a813ce0ebfaf823556ae",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\lib\\api-zod\\src\\index.ts": {
+    "mtime": 1778944523.657712,
+    "ast_hash": "02dfd463d5c526916bf3991b6a51192e",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\lib\\api-zod\\src\\generated\\api.ts": {
+    "mtime": 1778944523.6662822,
+    "ast_hash": "b357957d651066838768347d0d592e53",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\lib\\api-zod\\src\\generated\\types\\healthStatus.ts": {
+    "mtime": 1778944523.6768246,
+    "ast_hash": "b7b77daa95d70ea7e28339ce62f19755",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\lib\\api-zod\\src\\generated\\types\\index.ts": {
+    "mtime": 1778944523.682865,
+    "ast_hash": "1d3422f4ed3d489db7510a97b67c6c2a",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\lib\\db\\drizzle.config.ts": {
+    "mtime": 1778944523.6938224,
+    "ast_hash": "f0f972a1d0361972922d6c6230561343",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\lib\\db\\package.json": {
+    "mtime": 1778944523.699023,
+    "ast_hash": "6e94c2fd9c789ae4ae9def38039c6052",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\lib\\db\\tsconfig.json": {
+    "mtime": 1778944523.7041938,
+    "ast_hash": "ce46daa4089cdde27050e07ace687ed8",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\lib\\db\\src\\index.ts": {
+    "mtime": 1778944523.7525089,
+    "ast_hash": "e8e66b9b78812071adadf4aa0e088a58",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\lib\\db\\src\\schema\\index.ts": {
+    "mtime": 1778944523.7628672,
+    "ast_hash": "819bfd644f3b3edaad4fc6ce8bc587be",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\scripts\\package.json": {
+    "mtime": 1778944523.7735276,
+    "ast_hash": "6a0c373ad679044d10de8c595368cbba",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\scripts\\post-merge.sh": {
+    "mtime": 1778944523.7790647,
+    "ast_hash": "4cfdd6aa9ea87847ae9d7795d93558b1",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\scripts\\tsconfig.json": {
+    "mtime": 1778944523.7861688,
+    "ast_hash": "5b7de2e4d6f2f6c38288f664241e5ff9",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\scripts\\src\\hello.ts": {
+    "mtime": 1778944523.797454,
+    "ast_hash": "9a62ad5181277506072e8577d2f09c88",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\pnpm-workspace.yaml": {
+    "mtime": 1778946690.0908413,
+    "ast_hash": "eefc63d3954db6d276cd795c74af9d5f",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\mockup-sandbox\\index.html": {
+    "mtime": 1778944521.3518734,
+    "ast_hash": "18696505d49ebded27754371ebd86c7a",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\index.html": {
+    "mtime": 1778944521.7801569,
+    "ast_hash": "fe27a6d2d4212438c3554ffb29c2077a",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\public\\robots.txt": {
+    "mtime": 1778944521.8277173,
+    "ast_hash": "5e0bd1c281a62a380d7a948085bfe2d1",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind-mobile\\server\\templates\\landing-page.html": {
+    "mtime": 1778944522.6179063,
+    "ast_hash": "68fa9b7d4be18209a2969641ffe893d7",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\backend\\logs.txt": {
+    "mtime": 1778944522.9656098,
+    "ast_hash": "6bdfbbc2e788835852ca54a3f1e80d04",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\backend\\requirements.txt": {
+    "mtime": 1778945903.5406985,
+    "ast_hash": "be438ea1320c5b42d912b849a418191b",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\lib\\api-spec\\openapi.yaml": {
+    "mtime": 1778944523.557326,
+    "ast_hash": "f0284772714b44170c764dbea38a2e0a",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\expo-qr.png": {
+    "mtime": 1778944085.921713,
+    "ast_hash": "80cd62b8692f88111990844da658f347",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\public\\favicon.svg": {
+    "mtime": 1778944521.8176084,
+    "ast_hash": "1df424bb74dd3799fd103a4226daeaf3",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind\\public\\opengraph.jpg": {
+    "mtime": 1778944521.8227043,
+    "ast_hash": "f9cde397c3d08007bb30178f461fb57a",
+    "semantic_hash": ""
+  },
+  "C:\\Users\\dibya\\Downloads\\Travelmind-Frontend-Ai (1)\\Travelmind-Frontend-Ai\\artifacts\\travelmind-mobile\\assets\\images\\icon.png": {
+    "mtime": 1778944522.5285687,
+    "ast_hash": "b358420caafcbe027a27eabc047b99c1",
+    "semantic_hash": ""
+  }
+}
