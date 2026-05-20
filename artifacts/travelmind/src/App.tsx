@@ -1,8 +1,10 @@
+import { useEffect } from "react";
 import { Switch, Route, Router as WouterRouter } from "wouter";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { Toaster } from "@/components/ui/toaster";
 import { TooltipProvider } from "@/components/ui/tooltip";
 import { TripProvider, useTrip } from "@/context/TripContext";
+import { startBackendWarmup } from "@/services/api";
 import NotFound from "@/pages/not-found";
 import Onboarding from "@/pages/Onboarding";
 import DashboardLayout from "@/pages/Dashboard";
@@ -48,6 +50,8 @@ function AppRouter() {
 }
 
 function App() {
+  useEffect(() => startBackendWarmup(), []);
+
   return (
     <QueryClientProvider client={queryClient}>
       <TooltipProvider>
