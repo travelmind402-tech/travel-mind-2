@@ -73,7 +73,7 @@ function proxyToPython(req: Request, res: Response) {
 app.all("/api/health", proxyToPython);
 app.all("/api/session/*splat", proxyToPython);
 
-app.get("*", (_req, res) => {
+app.get("/{*splat}", (_req, res) => {
   res.sendFile(path.join(distPath, "index.html"));
 });
 
