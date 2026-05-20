@@ -4,6 +4,8 @@ import pinoHttp from "pino-http";
 import http from "http";
 import router from "./routes";
 import { logger } from "./lib/logger";
+import path from "path";
+import { fileURLToPath } from "url";
 
 const app: Express = express();
 
@@ -23,6 +25,9 @@ app.use(
 app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
+
+import path from "path";
+import { fileURLToPath } from "url";
 
 function proxyToPython(req: Request, res: Response) {
   const backendPath = req.originalUrl.replace(/^\/api/, "");
@@ -67,6 +72,10 @@ function proxyToPython(req: Request, res: Response) {
 
 app.all("/api/health", proxyToPython);
 app.all("/api/session/*splat", proxyToPython);
+
+app.get("*", (_req, res) => {
+  res.sendFile(path.join(distPath, "index.html"));
+});
 
 app.use("/api", router);
 
