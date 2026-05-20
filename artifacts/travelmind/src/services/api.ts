@@ -1,4 +1,6 @@
 const API = "/api";
+const BACKEND_WARMUP_INTERVAL_MS = 10 * 60 * 1000;
+const BACKEND_WARMUP_TIMEOUT_MS = 8000;
 
 export async function startSession(form: Record<string, unknown>): Promise<{ user_id: string; trip_id: string }> {
   const res = await fetch(`${API}/session/create`, {
@@ -11,6 +13,44 @@ export async function startSession(form: Record<string, unknown>): Promise<{ use
     throw new Error((err as any).detail || "Failed to start session");
   }
   return res.json();
+}
+
+export async function warmupBackend(): Promise<void> {
+  const controller = new AbortController();
+  const timeoutId = window.setTimeout(() => controller.abort(), BACKEND_WARMUP_TIMEOUT_MS);
+
+  try {
+    await fetch(`${API}/health`, {
+      method: "GET",
+      cache: "no-store",
+      signal: controller.signal,
+    });
+  } catch {
+    // Warmup is best-effort only; user workflows show their own API errors.
+  } finally {
+    window.clearTimeout(timeoutId);
+  }
+}
+
+export function startBackendWarmup(): () => void {
+  let intervalId: number | undefined;
+
+  const pingIfVisible = () => {
+    if (document.visibilityState === "visible") {
+      void warmupBackend();
+    }
+  };
+
+  pingIfVisible();
+  intervalId = window.setInterval(pingIfVisible, BACKEND_WARMUP_INTERVAL_MS);
+  document.addEventListener("visibilitychange", pingIfVisible);
+
+  return () => {
+    if (intervalId !== undefined) {
+      window.clearInterval(intervalId);
+    }
+    document.removeEventListener("visibilitychange", pingIfVisible);
+  };
 }
 
 export async function fetchWeather(tripId: string): Promise<any> {
