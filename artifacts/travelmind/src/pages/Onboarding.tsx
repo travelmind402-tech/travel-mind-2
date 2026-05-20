@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { useLocation } from "wouter";
 import { useTrip } from "@/context/TripContext";
 import { startSession } from "@/services/api";
@@ -8,7 +8,7 @@ import { Label } from "@/components/ui/label";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 import { Badge } from "@/components/ui/badge";
-import { PlaneTakeoff, Loader2, X, Plus, ChevronRight, ChevronLeft } from "lucide-react";
+import { PlaneTakeoff, Loader2, X, Plus, ChevronRight, ChevronLeft, AlertTriangle } from "lucide-react";
 
 const TRAVELER_TYPES = ["solo", "family", "elderly", "student"];
 const CUISINE_PREFS = ["all", "local", "street", "fine_dining"];
@@ -17,6 +17,64 @@ const CURRENCIES = ["INR", "USD", "EUR", "GBP", "JPY", "AUD", "CAD"];
 const TRAVEL_STYLES = ["general", "adventure", "cultural", "relaxation", "business"];
 const COMMON_ALLERGIES = ["Peanuts", "Shellfish", "Dairy", "Gluten", "Eggs", "Soy"];
 const COMMON_DIETS = ["Vegetarian", "Vegan", "Halal", "Kosher", "Gluten-Free"];
+
+const COUNTRY_ALIASES: Record<string, string> = {
+  america: "United States",
+  burma: "Myanmar",
+  england: "United Kingdom",
+  india: "India",
+  japan: "Japan",
+  korea: "South Korea",
+  "south korea": "South Korea",
+  "uae": "United Arab Emirates",
+  "u.a.e": "United Arab Emirates",
+  "united arab emirates": "United Arab Emirates",
+  "uk": "United Kingdom",
+  "u.k": "United Kingdom",
+  "united kingdom": "United Kingdom",
+  "us": "United States",
+  "u.s": "United States",
+  "usa": "United States",
+  "u.s.a": "United States",
+  "united states": "United States",
+  "united states of america": "United States",
+};
+
+const CITY_ALIASES: Record<string, string> = {
+  rangoon: "Yangon",
+};
+
+type DestinationStatus = "idle" | "checking" | "valid" | "invalid";
+type DestinationValidation = {
+  key: string;
+  status: DestinationStatus;
+  warning: string | null;
+};
+
+const formatDateInputValue = (date: Date) => {
+  const year = date.getFullYear();
+  const month = String(date.getMonth() + 1).padStart(2, "0");
+  const day = String(date.getDate()).padStart(2, "0");
+
+  return `${year}-${month}-${day}`;
+};
+
+const normalizeLocationValue = (value: string) => value.trim().toLowerCase().replace(/\s+/g, " ");
+const normalizeCountryName = (value: string) => {
+  const normalized = normalizeLocationValue(value).replace(/\./g, "");
+
+  return COUNTRY_ALIASES[normalized] || value.trim();
+};
+const normalizeCityName = (value: string) => {
+  const normalized = normalizeLocationValue(value);
+
+  return CITY_ALIASES[normalized] || value.trim();
+};
+
+const countriesMatch = (left: string, right: string) =>
+  normalizeLocationValue(normalizeCountryName(left)) === normalizeLocationValue(normalizeCountryName(right));
+const getDestinationKey = (city: string, country: string) =>
+  `${normalizeLocationValue(normalizeCityName(city))}|${normalizeLocationValue(normalizeCountryName(country))}`;
 
 function TagInput({
   label,
@@ -112,6 +170,11 @@ export default function Onboarding() {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [pendingPhrase, setPendingPhrase] = useState("");
+  const [destinationValidation, setDestinationValidation] = useState<DestinationValidation>({
+    key: "",
+    status: "idle",
+    warning: null,
+  });
 
   const [form, setForm] = useState({
     city: "",
@@ -138,8 +201,110 @@ export default function Onboarding() {
   const addTag = (key: string) => (v: string) => set(key, [...(form as any)[key], v]);
   const removeTag = (key: string) => (v: string) =>
     set(key, (form as any)[key].filter((t: string) => t !== v));
+  const today = formatDateInputValue(new Date());
+
+  const getDateWarning = () => {
+    if (form.travel_start_date && form.travel_start_date < today) {
+      return "Start date should be today or later --- unless you've invented time travel";
+    }
+
+    if (
+      form.travel_start_date &&
+      form.travel_end_date &&
+      form.travel_start_date >= form.travel_end_date
+    ) {
+      return "Start date must be before the end date.";
+    }
+
+    return null;
+  };
+
+  const dateWarning = getDateWarning();
+  const currentDestinationKey = getDestinationKey(form.city, form.country);
+  const destinationStatus = !form.city.trim() || !form.country.trim()
+    ? "idle"
+    : destinationValidation.key === currentDestinationKey
+    ? destinationValidation.status
+    : "checking";
+  const destinationWarning =
+    destinationValidation.key === currentDestinationKey ? destinationValidation.warning : null;
+
+  useEffect(() => {
+    const city = normalizeCityName(form.city);
+    const country = form.country.trim();
+    const validationKey = getDestinationKey(city, country);
+
+    if (!city || !country) {
+      setDestinationValidation({ key: validationKey, status: "idle", warning: null });
+      return;
+    }
+
+    const controller = new AbortController();
+    const timeoutId = window.setTimeout(async () => {
+      setDestinationValidation({ key: validationKey, status: "checking", warning: null });
+
+      try {
+        const params = new URLSearchParams({
+          name: city,
+          count: "10",
+          language: "en",
+          format: "json",
+        });
+        const res = await fetch(`https://geocoding-api.open-meteo.com/v1/search?${params}`, {
+          signal: controller.signal,
+        });
+
+        if (!res.ok) throw new Error("Destination validation failed");
+
+        const data = await res.json();
+        const results = Array.isArray(data?.results) ? data.results : [];
+        if (!results.length) {
+          setDestinationValidation({
+            key: validationKey,
+            status: "invalid",
+            warning: `We could not find a city named ${city}. Please enter a valid destination city.`,
+          });
+          return;
+        }
+
+        const matchingResult = results.find((result: any) => countriesMatch(result?.country || "", country));
+        if (matchingResult) {
+          setDestinationValidation({ key: validationKey, status: "valid", warning: null });
+          return;
+        }
+
+        setDestinationValidation({
+          key: validationKey,
+          status: "invalid",
+          warning: "Invalid input. Please enter a valid matching city and country.",
+        });
+      } catch (err: any) {
+        if (err.name === "AbortError") return;
+        setDestinationValidation({
+          key: validationKey,
+          status: "invalid",
+          warning: "Could not validate this destination right now. Please check the city and country.",
+        });
+      }
+    }, 500);
+
+    return () => {
+      controller.abort();
+      window.clearTimeout(timeoutId);
+    };
+  }, [form.city, form.country]);
 
   const handleSubmit = async () => {
+    const warning = getDateWarning() || destinationWarning;
+    if (warning) {
+      setError(warning);
+      return;
+    }
+    if (destinationStatus !== "valid") {
+      setError("Please enter a valid matching city and country before creating the trip.");
+      return;
+    }
+
     setLoading(true);
     setError(null);
     try {
@@ -162,7 +327,16 @@ export default function Onboarding() {
   };
 
   const canNext = () => {
-    if (step === 0) return form.city && form.country && form.travel_start_date && form.travel_end_date;
+    if (step === 0) {
+      return (
+        form.city &&
+        form.country &&
+        form.travel_start_date &&
+        form.travel_end_date &&
+        !dateWarning &&
+        destinationStatus === "valid"
+      );
+    }
     if (step === 1) return !!form.traveler_type;
     return true;
   };
@@ -231,12 +405,25 @@ export default function Onboarding() {
                     />
                   </div>
                 </div>
+                {destinationWarning && (
+                  <div className="flex items-start gap-2 rounded-lg border border-amber-500/30 bg-amber-500/10 p-3 text-sm font-medium text-amber-700 dark:text-amber-300">
+                    <AlertTriangle className="mt-0.5 h-4 w-4 shrink-0" />
+                    <span>{destinationWarning}</span>
+                  </div>
+                )}
+                {destinationStatus === "checking" && (
+                  <div className="flex items-center gap-2 rounded-lg border border-border bg-muted/50 p-3 text-sm font-medium text-muted-foreground">
+                    <Loader2 className="h-4 w-4 animate-spin" />
+                    <span>Checking city and country...</span>
+                  </div>
+                )}
                 <div className="grid grid-cols-2 gap-4">
                   <div className="space-y-2">
                     <Label htmlFor="start">Start Date *</Label>
                     <Input
                       id="start"
                       type="date"
+                      min={today}
                       value={form.travel_start_date}
                       onChange={(e) => set("travel_start_date", e.target.value)}
                     />
@@ -246,11 +433,18 @@ export default function Onboarding() {
                     <Input
                       id="end"
                       type="date"
+                      min={form.travel_start_date || today}
                       value={form.travel_end_date}
                       onChange={(e) => set("travel_end_date", e.target.value)}
                     />
                   </div>
                 </div>
+                {dateWarning && (
+                  <div className="flex items-start gap-2 rounded-lg border border-amber-500/30 bg-amber-500/10 p-3 text-sm font-medium text-amber-700 dark:text-amber-300">
+                    <AlertTriangle className="mt-0.5 h-4 w-4 shrink-0" />
+                    <span>{dateWarning}</span>
+                  </div>
+                )}
                 <TagInput
                   label="Transit Waypoints (optional)"
                   tags={form.transit_waypoints}
