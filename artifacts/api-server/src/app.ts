@@ -70,6 +70,9 @@ function proxyToPython(req: Request, res: Response) {
   proxyReq.end();
 }
 
+const distPath = path.resolve(process.cwd(), "artifacts", "travelmind", "dist", "public");
+app.use(express.static(distPath));
+
 app.all("/api/health", proxyToPython);
 app.all("/api/session/*splat", proxyToPython);
 
