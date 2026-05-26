@@ -18,6 +18,9 @@
       },
       "ios": {
         "simulator": false
+      },
+      "env": {
+        "EXPO_PUBLIC_DOMAIN": "node-js-api-server.onrender.com"
       }
     },
     "production": {
